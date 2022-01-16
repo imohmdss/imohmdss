@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Mohammad
-- 👀 I’m interested in software programing
-- 🌱 I’m currently learning front-end of website
-- 📫 How to reach me www.imohmdsmpss@gmail.com
+Hi there 🙌
+I am Mohammad and I work in the field of web design, I really enjoy learning new frameworks and my favorite framework is react js and I am looking for a lot of progress in this area.
 
-<!---
-Mohammad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imohmdss)](https://github.com/anuraghazra/github-readme-stats)
